@@ -1,3 +1,3 @@
 # jupyter-tutorial
 
-https://hub-binder.mybinder.ovh/user/chandlercarlile-jupyter-tutorial-vq0us33n/lab
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chandlercarlile/jupyter-tutorial/HEAD)
